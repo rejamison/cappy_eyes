@@ -21,6 +21,7 @@
 |Wire Strippers|
 |Wire|
 |CA Glue|
+|Short USB-A to Micro-USB Cable|
 |Heat-Shrink Wire Wrap and Heat Gun (Optional)|
 
 |Item|Count|Unit Price|Total|Link|Notes|
