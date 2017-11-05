@@ -34,4 +34,4 @@
 |Anker Powercore+ Battery|1|$14|$14|[Amazon](https://www.amazon.com/gp/product/B005X1Y7I2/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1)|Overkill for this project, but wanted to use a USB battery to simplify things.|
 |Landisun Mario Cap|1|$12|$12|[Amazon](https://www.amazon.com/gp/product/B00NCRBEHG/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)|Comes with Luigi too, but cheapest option even so.|
 |OSOYOO MG90S Servo|1|$3|$3|[Amazon](https://www.amazon.com/OSOYOO-Helicopter-Airplane-Controls-Raspberry/dp/B073B5D5HD/ref=sr_1_6?ie=UTF8&qid=1509844089&sr=8-6&keywords=mg90s)||
-|**Total**| | |**$169**|||
+|**Total**| | |**$36**|||
