@@ -2,13 +2,16 @@
 
 ## 3D Printing
 
-|Part|Count|Material|Print Time|
-|---|---|---|---|
-|[cappy_eyes.stl](cad/cappy_eyes.stl)|x1|40g|5 hours|
-|[cappy_eyes_pupil.stl](cad/cappy_eyes_pupil.stl)|x2|2g|1 hour|
-|[cappy_eyes_pupils_rail.stl](cad/cappy_eyes_pupils_rail.stl)|x1|1g|10 mins|
-|[cappy_eyes_mount.stl](cad/cappy_eyes_mount.stl|x1|2g|20 mins|
+|Part|Count|Material|Print Time|Supports|
+|---|---|---|---|---|
+|[cappy_eyes.stl](cad/cappy_eyes.stl)|x1|40g|5 hours|No|
+|[cappy_eyes_pupil.stl](cad/cappy_eyes_pupil.stl)|x2|2g|1 hour|No|
+|[cappy_eyes_pupils_rail.stl](cad/cappy_eyes_pupils_rail.stl)|x1|1g|10 mins|No|
+|[cappy_eyes_mount.stl](cad/cappy_eyes_mount.stl)|x1|2g|20 mins|Yes|
 |**Total**| |**45g**|**6 hours**|
+
+* Printed on Ultimaker 2 using Polymaker PolyMax PLA.
+* 25% infill.
 
 ## Assembly
 
