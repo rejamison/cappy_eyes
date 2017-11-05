@@ -3,12 +3,12 @@ $fn=100;
 size = 1;
 
 //translate([12*size - 5.5,0,-23.5]) mg90s();
-//translate([-7,0,0]) mount();
+translate([-7,0,0]) mount();
 
 //eyes();
 translate([12*size,6,0]) {
     //translate([0,0,6]) pupils();
-    pupils_rail();
+    //pupils_rail();
 }
 
 //pupil();
