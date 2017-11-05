@@ -7,7 +7,8 @@
 |[cappy_eyes.stl](cad/cappy_eyes.stl)|x1|40g|5 hours|
 |[cappy_eyes_pupil.stl](cad/cappy_eyes_pupil.stl)|x2|2g|1 hour|
 |[cappy_eyes_pupils_rail.stl](cad/cappy_eyes_pupils_rail.stl)|x1|1g|10 mins|
-|**Total**| |**43g**|**6 hours**|
+|[cappy_eyes_mount.stl](cad/cappy_eyes_mount.stl|x1|2g|20 mins|
+|**Total**| |**45g**|**6 hours**|
 
 ## Assembly
 
