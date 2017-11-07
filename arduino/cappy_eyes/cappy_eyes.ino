@@ -7,6 +7,8 @@ void setup() {
   // Set up the interrupt that will refresh the servo for us automagically
   OCR0A = 0xAF;            // any number is OK
   TIMSK |= _BV(OCIE0A);    // Turn on the compare interrupt (below!)
+
+  randomSeed(analogRead(1));
   
   myServo1.attach(SERVO1PIN);
   myServo1.write(90);
@@ -14,18 +16,11 @@ void setup() {
 }
 
 void loop()  {
-  static int servoPos;
-  servoPos++;
-  if(servoPos > 180) {
-    servoPos = 0;
-  }
+  int servoPos = random(10, 170);
+  int pause = random(1000);
   
   myServo1.write(servoPos);
-  if(servoPos == 0) {
-    delay(150);
-  } else {
-    delay(15);
-  }
+  delay(2000 + pause);
 }
 
 // We'll take advantage of the built in millis() timer that goes off

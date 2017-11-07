@@ -37,7 +37,7 @@ void Adafruit_SoftServo::write(uint8_t a) {
   angle = a;
 
   if (! isAttached) return;
-  micros = map(a, 0, 180, 400, 2500);  
+  micros = map(a, 0, 180, 460, 2250);  
 }
 
 void Adafruit_SoftServo::refresh(void) {
