@@ -2,6 +2,8 @@
 
 Fun little project to create a moving pair of Cappy eyes for a hat.
 
+![Cappy Eyes](cad/cappy_eyes_hero.gif)
+
 ## 3D Printing
 
 |Part|Count|Material|Print Time|Supports|
@@ -16,6 +18,8 @@ Fun little project to create a moving pair of Cappy eyes for a hat.
 * 25% infill.
 
 ## Assembly
+
+<img src="cad/cappy_eyes_rear.jpg" align="right" width="50%"/>
 
 1. If you plan to paint the parts, do so before assembly.
 1. Place the pupils rail part into the half-circle holes in the eyes.  It should glide freely left and right in the half-circles.  If not, trim up the edges of the half-circles and/or sand the pegs on the rail.
