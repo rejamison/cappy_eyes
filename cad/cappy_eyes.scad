@@ -59,11 +59,11 @@ module pupils_rail() {
 }
 
 module mount() {
-    translate([-3,-10,-12.5]) cube([13,20,12.5]);
-    translate([-4,-10,-14]) cube([6,20,14]);
+    translate([-3,-10,-12]) cube([13,20,17]);
+    translate([-4,-10,-14]) cube([6,20,19]);
     //translate([-0.55,0,-17]) cylinder(h=3,d=1.8);
-    translate([-3,-10,-14]) cube([33,3.5,4]);
-    translate([-3,10-3.5,-14]) cube([33,3.5,4]);
+    translate([-3,-10,-14]) cube([33,3.75,4]);
+    translate([-3,10-3.75,-14]) cube([33,3.75,4]);
     translate([25.5,-10,-14]) cube([4.5,20,4]);
     //translate([27.55,0,-17]) cylinder(h=3,d=1.8);
 }
