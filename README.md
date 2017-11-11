@@ -40,6 +40,7 @@ Fun little project to create a moving pair of Cappy eyes for a hat.
 1. Make a rigid metal pin that's small enough to move freely inside the servo arm.  I used a small paperclip.  Insert the pin into the center of the pupil rail by heating up one end and letting it melt into the rail.
 1. Test-fit the mount and servo so that the pin fits into the servo arm and when you move the arm back and forth the rail moves smoothly.  Glue the mount onto the back of the eyes in that position.
 1. Power it up and the pupils should move :)
+1. Use a red and black Sharpie or paint spruce them up.
 
 ## Software
 
@@ -60,6 +61,7 @@ The servo should move to a random position every few seconds.
 |Wire|
 |CA Glue|
 |Short USB-A to Micro-USB Cable|
+|Black and Red Sharpie or Paint|
 |Heat-Shrink Wire Wrap and Heat Gun (Optional)|
 
 |Item|Count|Unit Price|Total|Link|Notes|
